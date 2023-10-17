@@ -1,5 +1,5 @@
 Jannatul Nayem Sajol.  
-Author-The magic Math.
+Author-The magic Math.  
 ***heading style
 # jannatul nayem
 ## jannatul nayem
@@ -8,11 +8,11 @@ Author-The magic Math.
 ##### jannatul nayem
 ###### jannatul nayem
   
-<p>Kushtia is the land of culture, which cultivated by the great poet literalists Rabindranath Thakur, Mir Mosharrof Hossain, Kangal Harinath, Bagha Jatin etc.</p>
+<p>Kushtia is the land of culture, which cultivated by the great poet literalists Rabindranath Thakur, Mir Mosharrof Hossain, Kangal Harinath, Bagha Jatin etc.</p>  
 
 *** italic style
 <i>Kushtia is the land of culture,</i>  
-__Kushtia is the land of culture,__  
+__Kushtia is the land of culture,__   
 
 *** line through style
 ~~Kushtia is the land of culture,~~
